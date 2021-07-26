@@ -22,3 +22,17 @@ cd d:/repository
 14. push the code to the master 
 git push origin master
 
+
+Second time pushing the git 
+1. Use git init to initialize 
+git init
+2. Use git add command 
+git add .
+3. commit the files in the local repository
+git commit -m " Readme updated"
+4. check the status of commit 
+git status 
+5. push the code to the master 
+git push origin master 
+
+ 
