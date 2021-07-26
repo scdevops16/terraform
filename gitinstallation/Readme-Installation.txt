@@ -23,7 +23,7 @@ cd d:/repository
 git push origin master
 
 
-Second time pushing the git 
+Second time pushing to the  git repository as whole changes in the master
 1. Use git init to initialize 
 git init
 2. Use git add command 
