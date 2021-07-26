@@ -9,11 +9,16 @@ cd d:/repository
 6. initialize 
 	git init
 7. Create a file in the local repository
-8. git status 
-9.  git config --global user.username scdevops16
-10. Authorize the user through browser giving the password
-11. Add the origin to the mapping local to remote
+8. add the file to the local repository
+   git add .
+9. commit the file in the local repository
+    git commit -m "Readme for Git installation"
+10. git status 
+11.  git config --global user.username scdevops16
+12. Authorize the user through browser giving the password
+13. Add the origin to the mapping local to remote
  git remote add origin https://github.com/scdevops16/terraform.git
 
-12. push the code to the master 
-git push orign master
+14. push the code to the master 
+git push origin master
+
